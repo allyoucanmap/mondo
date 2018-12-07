@@ -1,0 +1,7 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "icone";
+    src: url("./icons.ttf");
+    font-weight: normal;
+    font-style: normal;
+}

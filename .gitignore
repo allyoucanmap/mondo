@@ -1,0 +1,10 @@
+node_modules
+release-builds
+dist
+data
+assets/font/EBGaramond12-Regular.css
+assets/font/EBGaramond12-Regular.ttf
+assets/font/Inconsolata.css
+assets/font/Inconsolata.ttf
+assets/font/OpenSans-Light.css
+assets/font/OpenSans-Light.ttf
